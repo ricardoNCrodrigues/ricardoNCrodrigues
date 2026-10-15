@@ -88,16 +88,6 @@ Me chamo Ricardo Rodrigues, tenho 22 anos e sou natural de São Vicente do Cabo 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
-<img 
-    align="left" 
-    alt="REACT" 
-    title="REACT"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-
-
 <br/>
 <br/>
 
